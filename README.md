@@ -1,2 +1,3 @@
 # hello-world
-I am learning how to program an app
+
+Just now I am in New Zealand
